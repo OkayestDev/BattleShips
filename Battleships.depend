@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1499348853 source:c:\users\hrltech\desktop\battleships\main.cpp
+	<iostream>
+	"Player.cpp"
+
+1499348892 c:\users\hrltech\desktop\battleships\player.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	"Player.h"
+	"Ship.h"
+
+1499345257 c:\users\hrltech\desktop\battleships\player.h
+	<cstdlib>
+	"Ship.h"
+
+1499107704 c:\users\hrltech\desktop\battleships\aircraftcarrier.h
+
+1499107774 c:\users\hrltech\desktop\battleships\battleship.h
+
+1499107830 c:\users\hrltech\desktop\battleships\cruiser.h
+
+1499108270 c:\users\hrltech\desktop\battleships\destroyer.h
+
+1499108435 c:\users\hrltech\desktop\battleships\submarine.h
+
+1499344229 c:\users\hrltech\desktop\battleships\ship.h
+
+1499285394 c:\users\hrltech\desktop\battleships\turncontroller.h
+
